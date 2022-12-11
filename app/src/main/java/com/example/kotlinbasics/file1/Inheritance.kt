@@ -3,6 +3,7 @@ package com.example.kotlinbasics.file1
 fun main() {
     val child = Son()
     child.characteristic("mavi","sarı")
+    child.psychological("mutsuz")
 }
 
 open class Dad {
