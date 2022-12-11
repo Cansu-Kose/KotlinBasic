@@ -1,0 +1,8 @@
+Developer: Cansu Kose
+---------------------
+
+FileInputOutput.kt
+com.example.kotlinbasics.file1.FileProcess
+getText
+13
+lateinit property text has not been initialized
